@@ -1,3 +1,4 @@
+
 .infoCardHeadline {
     font-family: serif;
     font-size: 2.25rem;
@@ -20,7 +21,7 @@
 }
 .infoCardContainer--vintage {
     background-color: #edcfd1
-  }
+}
 .infoCardContainer--vintage {
     max-width: 1260px;
     margin: 0 auto;
